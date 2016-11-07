@@ -5,84 +5,84 @@
 00005 amb@code_human_cower@female@idle_a idle_c 3533                                      Cowered 4 (Crouched)
 00006 amb@code_human_cower@female@react_cowering base_back_left 4666                      Cowered 5 (Crouched)
 00007 amb@code_human_cower@male@base base 1866                                            Cowered 6 (Crouched)
-00008 amb@code_human_cower@male@enter enter 1800                                          Look around --> Cowered (Crouched)
-00009 amb@code_human_cower@male@exit exit_flee 1600                                       Cowered --> Stand up
-00010 amb@code_human_cower@male@idle_a idle_b 5566                                        CoweredLonger 1
-00011 amb@code_human_cower@male@idle_b idle_d 6133                                        CoweredLonger 2
-00012 amb@code_human_cower@male@react_cowering base_back_left 4666                        CoweredLonger 3
-00013 amb@code_human_cower_stand@female@base base 3433                                    Cowered
-00014 amb@code_human_cower_stand@female@enter enter 733
-00015 amb@code_human_cower_stand@female@exit exit_flee 400
-00016 amb@code_human_cower_stand@female@idle_a idle_c 6233
-00017 amb@code_human_cower_stand@female@react_cowering base_back_left_exit 400
-00018 amb@code_human_cower_stand@male@base base 3833
-00019 amb@code_human_cower_stand@male@enter enter 866
-00020 amb@code_human_cower_stand@male@exit exit_flee 400
-00021 amb@code_human_cower_stand@male@idle_a idle_b 3666
-00022 amb@code_human_cower_stand@male@react_cowering base_right 7566
-00023 amb@code_human_cross_road@female@base base 7333
-00024 amb@code_human_cross_road@female@idle_a idle_c 7200
-00025 amb@code_human_cross_road@female@idle_enter idle_intro 2166
-00026 amb@code_human_cross_road@male@base base 6733
-00027 amb@code_human_cross_road@male@idle_a idle_e 7500
-00028 amb@code_human_cross_road@male@idle_enter idle_enter 3000
-00029 amb@code_human_in_bus_passenger_idles@female@sit@base base 4200
-00030 amb@code_human_in_bus_passenger_idles@female@sit@idle_a idle_b 2666
-00031 amb@code_human_in_bus_passenger_idles@female@tablet@base base 5333
-00032 amb@code_human_in_bus_passenger_idles@female@tablet@idle_a idle_a 18166
-00033 amb@code_human_in_bus_passenger_idles@male@coffee@base base 5500
-00034 amb@code_human_in_bus_passenger_idles@male@coffee@idle_a idle_b 11300
-00035 amb@code_human_in_bus_passenger_idles@male@sit@base base 7300
-00036 amb@code_human_in_bus_passenger_idles@male@sit@idle_a idle_a 4866
-00037 amb@code_human_in_bus_passenger_idles@male@sit@idle_b idle_e 5000
-00038 amb@code_human_in_car_idles@generic@ds@base base 2733
-00039 amb@code_human_in_car_idles@generic@ds@idle_a idle_a 6900
-00040 amb@code_human_in_car_idles@generic@ds@idle_b idle_d 3199
-00041 amb@code_human_in_car_idles@generic@ds@idle_c idle_g 5066
-00042 amb@code_human_in_car_idles@generic@ds@idle_d idle_j 9833
-00043 amb@code_human_in_car_idles@generic@ds@idle_d idle_l 8366
-00044 amb@code_human_in_car_idles@generic@ps@base base 2733
-00045 amb@code_human_in_car_idles@generic@ps@idle_a idle_c 5733
-00046 amb@code_human_in_car_idles@generic@ps@idle_b idle_d 3199
-00047 amb@code_human_in_car_idles@generic@ps@idle_c idle_g 4500
-00048 amb@code_human_in_car_idles@generic@ps@idle_d idle_j 9833
-00049 amb@code_human_in_car_idles@generic@ps@idle_e idle_m 6500
-00050 amb@code_human_in_car_idles@generic@rds@base base 2733
-00051 amb@code_human_in_car_idles@generic@rds@idle_a idle_c 5733
-00052 amb@code_human_in_car_idles@generic@rds@idle_b idle_d 3199
-00053 amb@code_human_in_car_idles@generic@rds@idle_c idle_g 4500
-00054 amb@code_human_in_car_idles@generic@rds@idle_d idle_j 9833
-00055 amb@code_human_in_car_idles@generic@rds@idle_e idle_n 8200
-00056 amb@code_human_in_car_idles@generic@rps@base base 2733
-00057 amb@code_human_in_car_idles@generic@rps@idle_a idle_a 6900
-00058 amb@code_human_in_car_idles@generic@rps@idle_b idle_d 3199
-00059 amb@code_human_in_car_idles@generic@rps@idle_c idle_g 4500
-00060 amb@code_human_in_car_idles@generic@rps@idle_d idle_j 9833
-00061 amb@code_human_in_car_idles@generic@rps@idle_e idle_n 8200
-00062 amb@code_human_in_car_idles@low@ds@base base 2733
-00063 amb@code_human_in_car_idles@low@ds@idle_a idle_a 6900
-00064 amb@code_human_in_car_idles@low@ds@idle_b idle_d 3199
-00065 amb@code_human_in_car_idles@low@ds@idle_c idle_g 5066
-00066 amb@code_human_in_car_idles@low@ds@idle_d idle_j 9833
-00067 amb@code_human_in_car_idles@low@ps@base base 2733
-00068 amb@code_human_in_car_idles@low@ps@idle_a idle_a 6900
-00069 amb@code_human_in_car_idles@low@ps@idle_b idle_d 3200
-00070 amb@code_human_in_car_idles@low@ps@idle_c idle_g 4500
-00071 amb@code_human_in_car_idles@low@ps@idle_d idle_j 9833
-00072 amb@code_human_in_car_idles@low@ps@idle_e idle_n 8200
-00073 amb@code_human_in_car_idles@van@ds@base base 2733
-00074 amb@code_human_in_car_idles@van@ds@idle_a idle_a 6900
-00075 amb@code_human_in_car_idles@van@ds@idle_b idle_d 3199
-00076 amb@code_human_in_car_idles@van@ds@idle_c idle_g 5066
-00077 amb@code_human_in_car_idles@van@ds@idle_c idle_i 5866
-00078 amb@code_human_in_car_idles@van@ds@idle_d idle_j 9833
-00079 amb@code_human_in_car_idles@van@ps@base base 2733
-00080 amb@code_human_in_car_idles@van@ps@idle_a idle_a 6900
-00081 amb@code_human_in_car_idles@van@ps@idle_b idle_d 3199
-00082 amb@code_human_in_car_idles@van@ps@idle_c idle_g 4500
-00083 amb@code_human_in_car_idles@van@ps@idle_c idle_i 5866
-00084 amb@code_human_in_car_idles@van@ps@idle_d idle_j 9833
-00085 amb@code_human_in_car_idles@van@ps@idle_e idle_n 8200
+00008 amb@code_human_cower@male@enter enter 1800                                          Enter Cowered (Crouched)
+00009 amb@code_human_cower@male@exit exit_flee 1600                                       Cowered Stand Up
+00010 amb@code_human_cower@male@idle_a idle_b 5566                                        Cowered Longer 1
+00011 amb@code_human_cower@male@idle_b idle_d 6133                                        Cowered Longer 2
+00012 amb@code_human_cower@male@react_cowering base_back_left 4666                        Cowered Longer 3
+00013 amb@code_human_cower_stand@female@base base 3433                                    Cowered Standing 1
+00014 amb@code_human_cower_stand@female@enter enter 733                                   Cowered Standing Enter
+00015 amb@code_human_cower_stand@female@exit exit_flee 400                                Cowered Standing Exit
+00016 amb@code_human_cower_stand@female@idle_a idle_c 6233                                Cowered Standing Longer
+00017 amb@code_human_cower_stand@female@react_cowering base_back_left_exit 400            Cowered Standing 2
+00018 amb@code_human_cower_stand@male@base base 3833                                      Cowered Standing Longer 2
+00019 amb@code_human_cower_stand@male@enter enter 866                                     Cowered Standing Enter
+00020 amb@code_human_cower_stand@male@exit exit_flee 400                                  Cowered Standing Exit
+00021 amb@code_human_cower_stand@male@idle_a idle_b 3666                                  Cowered Standing Longer 3
+00022 amb@code_human_cower_stand@male@react_cowering base_right 7566                      Cowered Standing Longer 4
+00023 amb@code_human_cross_road@female@base base 7333                                     Crossing Road 1
+00024 amb@code_human_cross_road@female@idle_a idle_c 7200                                 Crossing Road 2
+00025 amb@code_human_cross_road@female@idle_enter idle_intro 2166                         Crossing Road 3
+00026 amb@code_human_cross_road@male@base base 6733                                       Crossing Road 4
+00027 amb@code_human_cross_road@male@idle_a idle_e 7500                                   Crossing Road 5
+00028 amb@code_human_cross_road@male@idle_enter idle_enter 3000                           Crossing Road 6
+00029 amb@code_human_in_bus_passenger_idles@female@sit@base base 4200                     Sitting in Bus 1  
+00030 amb@code_human_in_bus_passenger_idles@female@sit@idle_a idle_b 2666                 Sitting in Bus 2
+00031 amb@code_human_in_bus_passenger_idles@female@tablet@base base 5333                  Sitting in Bus 3 (Tablet)
+00032 amb@code_human_in_bus_passenger_idles@female@tablet@idle_a idle_a 18166             Sitting in Bus 4 (Tablet)
+00033 amb@code_human_in_bus_passenger_idles@male@coffee@base base 5500                    Sitting in Bus 5 (Coffee)
+00034 amb@code_human_in_bus_passenger_idles@male@coffee@idle_a idle_b 11300               Sitting in Bus 6 (Coffee)
+00035 amb@code_human_in_bus_passenger_idles@male@sit@base base 7300                       Sitting in Bus 7
+00036 amb@code_human_in_bus_passenger_idles@male@sit@idle_a idle_a 4866                   Sitting in Bus 8
+00037 amb@code_human_in_bus_passenger_idles@male@sit@idle_b idle_e 5000                   Sitting in Bus 9
+00038 amb@code_human_in_car_idles@generic@ds@base base 2733                               Sitting in Car 1
+00039 amb@code_human_in_car_idles@generic@ds@idle_a idle_a 6900				  Sitting in Car 2							  				                          
+00040 amb@code_human_in_car_idles@generic@ds@idle_b idle_d 3199			          Sitting in Car 3
+00041 amb@code_human_in_car_idles@generic@ds@idle_c idle_g 5066				  Sitting in Car 4
+00042 amb@code_human_in_car_idles@generic@ds@idle_d idle_j 9833				  Sitting in Car 5
+00043 amb@code_human_in_car_idles@generic@ds@idle_d idle_l 8366				  Sitting in Car 6
+00044 amb@code_human_in_car_idles@generic@ps@base base 2733				  Sitting in Car 7
+00045 amb@code_human_in_car_idles@generic@ps@idle_a idle_c 5733				  Sitting in Car 8
+00046 amb@code_human_in_car_idles@generic@ps@idle_b idle_d 3199				  Sitting in Car 9
+00047 amb@code_human_in_car_idles@generic@ps@idle_c idle_g 4500				  Sitting in Car 10
+00048 amb@code_human_in_car_idles@generic@ps@idle_d idle_j 9833				  Sitting in Car 11
+00049 amb@code_human_in_car_idles@generic@ps@idle_e idle_m 6500				  Sitting in Car 12
+00050 amb@code_human_in_car_idles@generic@rds@base base 2733				  Sitting in Car 13
+00051 amb@code_human_in_car_idles@generic@rds@idle_a idle_c 5733			  Sitting in Car 14
+00052 amb@code_human_in_car_idles@generic@rds@idle_b idle_d 3199			  Sitting in Car 15
+00053 amb@code_human_in_car_idles@generic@rds@idle_c idle_g 4500			  Sitting in Car 15
+00054 amb@code_human_in_car_idles@generic@rds@idle_d idle_j 9833			  Sitting in Car 16
+00055 amb@code_human_in_car_idles@generic@rds@idle_e idle_n 8200			  Sitting in Car 17
+00056 amb@code_human_in_car_idles@generic@rps@base base 2733				  Sitting in Car 18
+00057 amb@code_human_in_car_idles@generic@rps@idle_a idle_a 6900			  Sitting in Car 19
+00058 amb@code_human_in_car_idles@generic@rps@idle_b idle_d 3199			  Sitting in Car 20
+00059 amb@code_human_in_car_idles@generic@rps@idle_c idle_g 4500			  Sitting in Car 21
+00060 amb@code_human_in_car_idles@generic@rps@idle_d idle_j 9833			  Sitting in Car 22
+00061 amb@code_human_in_car_idles@generic@rps@idle_e idle_n 8200			  Sitting in Car 23
+00062 amb@code_human_in_car_idles@low@ds@base base 2733					  Sitting in Car Low 1
+00063 amb@code_human_in_car_idles@low@ds@idle_a idle_a 6900			  	  Sitting in Car Low 2
+00064 amb@code_human_in_car_idles@low@ds@idle_b idle_d 3199				  Sitting in Car Low 3
+00065 amb@code_human_in_car_idles@low@ds@idle_c idle_g 5066   				  Sitting in Car Low 4
+00066 amb@code_human_in_car_idles@low@ds@idle_d idle_j 9833				  Sitting in Car Low 5
+00067 amb@code_human_in_car_idles@low@ps@base base 2733					  Sitting in Car Low 6
+00068 amb@code_human_in_car_idles@low@ps@idle_a idle_a 6900				  Sitting in Car Low 7
+00069 amb@code_human_in_car_idles@low@ps@idle_b idle_d 3200				  Sitting in Car Low 8
+00070 amb@code_human_in_car_idles@low@ps@idle_c idle_g 4500				  Sitting in Car Low 9
+00071 amb@code_human_in_car_idles@low@ps@idle_d idle_j 9833				  Sitting in Car Low 10
+00072 amb@code_human_in_car_idles@low@ps@idle_e idle_n 8200				  Sitting in Car Low 11
+00073 amb@code_human_in_car_idles@van@ds@base base 2733					  Sitting in Van 1
+00074 amb@code_human_in_car_idles@van@ds@idle_a idle_a 6900				  Sitting in Van 2
+00075 amb@code_human_in_car_idles@van@ds@idle_b idle_d 3199				  Sitting in Van 3
+00076 amb@code_human_in_car_idles@van@ds@idle_c idle_g 5066				  Sitting in Van 4
+00077 amb@code_human_in_car_idles@van@ds@idle_c idle_i 5866				  Sitting in Van 5
+00078 amb@code_human_in_car_idles@van@ds@idle_d idle_j 9833			          Sitting in Van 6
+00079 amb@code_human_in_car_idles@van@ps@base base 2733					  Sitting in Van 7
+00080 amb@code_human_in_car_idles@van@ps@idle_a idle_a 6900				  Sitting in Van 8
+00081 amb@code_human_in_car_idles@van@ps@idle_b idle_d 3199				  Sitting in Van 9
+00082 amb@code_human_in_car_idles@van@ps@idle_c idle_g 4500				  Sitting in Van 10
+00083 amb@code_human_in_car_idles@van@ps@idle_c idle_i 5866			          Sitting in Van 11
+00084 amb@code_human_in_car_idles@van@ps@idle_d idle_j 9833				  Sitting in Van 12
+00085 amb@code_human_in_car_idles@van@ps@idle_e idle_n 8200				  Sitting in Van 13
 00086 amb@code_human_in_car_mp_actions@arse_pick@bodhi@rds@base idle_a 2333
 00087 amb@code_human_in_car_mp_actions@arse_pick@bodhi@rps@base enter 633
 00088 amb@code_human_in_car_mp_actions@arse_pick@std@ps@base enter 1033
