@@ -1,16 +1,16 @@
-00001 amb@bagels@male@walking@ static 3333
-00002 amb@code_human_cower@female@base base 2833
-00003 amb@code_human_cower@female@enter enter 1033
-00004 amb@code_human_cower@female@exit exit_flee 633
-00005 amb@code_human_cower@female@idle_a idle_c 3533
-00006 amb@code_human_cower@female@react_cowering base_back_left 4666
-00007 amb@code_human_cower@male@base base 1866
-00008 amb@code_human_cower@male@enter enter 1800
-00009 amb@code_human_cower@male@exit exit_flee 1600
-00010 amb@code_human_cower@male@idle_a idle_b 5566
-00011 amb@code_human_cower@male@idle_b idle_d 6133
-00012 amb@code_human_cower@male@react_cowering base_back_left 4666
-00013 amb@code_human_cower_stand@female@base base 3433
+00001 amb@bagels@male@walking@ static 3333                                                Man standing still
+00002 amb@code_human_cower@female@base base 2833                                          Cowered 1 (Crouched)
+00003 amb@code_human_cower@female@enter enter 1033                                        Cowered 2 (Crouched)
+00004 amb@code_human_cower@female@exit exit_flee 633                                      Cowered 3 (Crouched)
+00005 amb@code_human_cower@female@idle_a idle_c 3533                                      Cowered 4 (Crouched)
+00006 amb@code_human_cower@female@react_cowering base_back_left 4666                      Cowered 5 (Crouched)
+00007 amb@code_human_cower@male@base base 1866                                            Cowered 6 (Crouched)
+00008 amb@code_human_cower@male@enter enter 1800                                          Look around --> Cowered (Crouched)
+00009 amb@code_human_cower@male@exit exit_flee 1600                                       Cowered --> Stand up
+00010 amb@code_human_cower@male@idle_a idle_b 5566                                        CoweredLonger 1
+00011 amb@code_human_cower@male@idle_b idle_d 6133                                        CoweredLonger 2
+00012 amb@code_human_cower@male@react_cowering base_back_left 4666                        CoweredLonger 3
+00013 amb@code_human_cower_stand@female@base base 3433                                    Cowered
 00014 amb@code_human_cower_stand@female@enter enter 733
 00015 amb@code_human_cower_stand@female@exit exit_flee 400
 00016 amb@code_human_cower_stand@female@idle_a idle_c 6233
